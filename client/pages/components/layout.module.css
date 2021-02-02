@@ -1,0 +1,5 @@
+.scroll{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    white-space: nowrap;
+}
