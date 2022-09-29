@@ -5,7 +5,7 @@ const About = () => {
     <Layout>
       <Box p={20}>
         <Heading mb={5}>
-          Chuck Norris trying to laugh his way into SovTech
+          Funny chucknorris jokes generator, pick a category, I dare you !
         </Heading>
         <p>
           All jokes curated from the hilarious 
